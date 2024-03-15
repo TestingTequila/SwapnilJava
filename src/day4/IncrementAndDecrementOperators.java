@@ -32,14 +32,14 @@ public class IncrementAndDecrementOperators
         //System.out.println(++ch);//
         //System.out.println(ch); //
 
-        int m = 200;
-        int n = m++;
-        System.out.println(--m);
-        System.out.println(m);
-        System.out.println(m++);
-        System.out.println(m--);
-        System.out.println(--m);
-        System.out.println(m);
+        int m = 200; // 199
+        int n = m++; // 200
+        System.out.println(--m); // 200
+        System.out.println(m);   // 200
+        System.out.println(m++); // 200
+        System.out.println(m--); // 201
+        System.out.println(--m); // 199
+        System.out.println(m);   // 199
     }
 
 }
