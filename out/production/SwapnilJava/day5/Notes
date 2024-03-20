@@ -1,0 +1,21 @@
+-Statements: To make decisions
+ if Statement
+ if(condition)
+ {
+     This will execute only if condition is true
+ }
+ Multiple If Statement
+ Nested If Statements
+ ---------------------------------------------------------------
+ If Else Statement
+ if(condition)
+  {
+      This will execute only if condition is true
+  }
+  else
+  {
+       This will execute only if condition is false
+  }
+ If Else if Statement
+ Switch Statement
+ Advantages/Disadvantages of statements over one another
